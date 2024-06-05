@@ -20,3 +20,7 @@ Nuestro proyecto es desarrollar un contador de pasos básico que permita a los u
 
 ## Tablero de Jira
 [Enlace al tablero](https://nayeli-jaqueline-padron-velazquez.atlassian.net/jira/software/projects/CDP/boards/6)
+
+## Prototipo 
+![image](https://github.com/Nayelipadron24/ContadorDePasos/assets/106614070/0edf227a-495d-416b-8455-c35caf2951b3)
+
