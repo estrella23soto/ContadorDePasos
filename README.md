@@ -7,8 +7,10 @@ Nuestro proyecto es desarrollar un contador de pasos básico que permita a los u
 - Jira: para la gestión de las tareas
 ## Hardware empleado
 - Acelerometro
-- Microcontrolador
-- Batería recargable
+- Giroscopio
+- Sensor de frecuencia cardiaca
+- Sensor de temperatura
+- Podometro
 
 ## Historias de usuario
 - **Historia 1**: Como usuario, quiero poder llevar un dispositivo en mi muñeca que cuente mis pasos, para monitorear mi actividad física diaria.
