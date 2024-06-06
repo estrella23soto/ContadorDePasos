@@ -13,9 +13,9 @@ Nuestro proyecto es desarrollar un contador de pasos básico que permita a los u
 - Podometro
 
 ## Historias de usuario
-- **Historia 1**: Como usuario, quiero poder llevar un dispositivo en mi muñeca que cuente mis pasos, para monitorear mi actividad física diaria.
-- **Historia 2**: Como usuario, quiero que el dispositivo tenga una batería de larga duración, para no tener que cargarlo frecuentemente.
-- **Historia 3**: Como usuario, quiero que el dispositivo tenga una interfaz simple, para poder ver mis pasos fácilmente.
+- **Historia 1**: El usuario quiere llevar un dispositivo en su muñeca que cuente sus pasos, para monitorear su actividad física diaria.
+- **Historia 2**: El usuario quiere que el dispositivo tenga una batería de larga duración, para no tener que cargarlo frecuentemente.
+- **Historia 3**: El usuario quiere que el dispositivo tenga una interfaz simple, para poder ver sus pasos fácilmente.
 
 ## Prototipo propuesto
 
