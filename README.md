@@ -1,4 +1,9 @@
-### ContadorDePasos
+## ContadorDePasos
+# Integrantes
+- Cruz Estrella Juarez Soto
+- Cesar Alejandro Ordoñez Osorio
+- Nayeli Jaqueline Padron Velazquez
+  
 ## Enunciado de Visión
 El objetivo de este proyecto es construir un contador de pasos portátil que utilice un Arduino para recopilar datos de un sensor de movimiento (acelerómetro) y los transmita a una aplicación móvil desarrollada en Dart. La aplicación mostrará el número de pasos dados por el usuario en tiempo real, proporcionando una herramienta útil para el monitoreo de la actividad física.
 ## Software empleado
