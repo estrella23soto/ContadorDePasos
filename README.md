@@ -35,6 +35,7 @@ El objetivo de este proyecto es construir un contador de pasos portátil que uti
 [Enlace al tablero](https://ordonezosoriocesar.atlassian.net/jira/software/projects/RP/boards/4/backlog?atlOrigin=eyJpIjoiZmFjY2Q5NGQyMDAyNDE1NmI5NTljODgwMDI0YTFlNzAiLCJwIjoiaiJ9)
 
 ## Prototipo 
+![image](https://github.com/user-attachments/assets/b1912465-c0df-49eb-91ee-ec85676ac976)
 
 
 
