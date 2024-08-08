@@ -36,6 +36,8 @@ El objetivo de este proyecto es construir un contador de pasos portátil que uti
 
 ## Prototipo 
 ![image](https://github.com/user-attachments/assets/b1912465-c0df-49eb-91ee-ec85676ac976)
+## Avances
+https://wokwi.com/projects/405692537759973377
 
 
 
